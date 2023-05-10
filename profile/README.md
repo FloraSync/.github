@@ -6,4 +6,4 @@ FloraSync is a project to provide free software to DIY farmers.  Our goal is to 
 
 If you're interested please join our [Slack](https://join.slack.com/t/florasync/shared_invite/zt-1utjbs7xx-zW7hBHTksFdvXddtzKeX1Q)
 
-- Schuyler
+\- Schuyler
